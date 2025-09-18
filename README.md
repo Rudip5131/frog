@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>KEROFROG — The Meme Leap Token</title>
+  <title>KEROFROG — The Meme Leap pngtitle>
   <meta name="description" content="KEROFROG — The meme leap token. A funny, resilient frog that croaks loud, leaps high, and spreads joy in the crypto pond.">
   <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet">
   <style>
@@ -132,7 +131,7 @@
 <body>
 
 <header>
-  <img src="https://raw.githubusercontent.com/Rudip5131/Pigo-gallery/refs/heads/main/kerofrog.png" alt="KEROFROG Logo">
+  <img src="https://raw.githubusercontent.com/Rudip5131/froggalery/refs/heads/main/frog.jpeg " alt="KEROFROG Logo">
   <h1>KEROFROG</h1>
 </header>
 
